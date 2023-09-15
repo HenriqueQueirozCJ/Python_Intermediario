@@ -26,5 +26,6 @@ def parimpar(numero):
 
 par_impar = parimpar
 dois_par = par_impar(3)
-print(dois_par)
+print(par_impar(9))
+print(par_impar(7))
 print(parimpar is parimpar)
